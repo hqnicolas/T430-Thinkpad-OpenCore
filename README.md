@@ -57,7 +57,7 @@ Blog link: https://macpc.top (Currently closed and expected to reopen in October
 
 |Hard Disk | 240G Taiwan/1T Misbranded Msata|
 
-|Network card | Bcm94360HMB/Bcm943224HMP|
+|Network card | intel Centrino Original 7620 / 6205 / 6210|
 
 |Bluetooth | Bcm20702A0|
 
