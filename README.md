@@ -1,4 +1,4 @@
-![image](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ic1gkvrxj21340u0gqm.jpg)
+![image](https://i.ibb.co/4WDLgg2/t430-ventura.jpg)
 
 ##Overview
 
