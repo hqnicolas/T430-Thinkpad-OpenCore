@@ -6,7 +6,7 @@ What I add to the original Release:
 - |Network card | Bcm94360HMB/Bcm943224HMP|
 - |Network card | intel Centrino Original 7620 / 6205 / 6210|
 - |Bluetooth | Bcm20702A0|
-- |External Docking Station|
+- |External Docking Station Software Support|
 - |Dual Boot fix|
 
 # Applicable system
