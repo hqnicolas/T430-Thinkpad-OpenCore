@@ -1,13 +1,13 @@
-![image](https://i.ibb.co/4WDLgg2/t430-ventura.jpg)
-
 # Overview
 - The purpose of this project is to enable the LENOVO ThinkPad T430 series notebook to use MacOS.
 Note: This series of laptops has a WiFi whitelist and cannot be replaced with any network card,
-- Hqnicolas Colab:
-|Network card | Bcm94360HMB/Bcm943224HMP|
-|Network card | intel Centrino Original 7620 / 6205 / 6210|
-|Bluetooth | Bcm20702A0|
-
+# This Commit
+What I add to the original Release:
+- |Network card | Bcm94360HMB/Bcm943224HMP|
+- |Network card | intel Centrino Original 7620 / 6205 / 6210|
+- |Bluetooth | Bcm20702A0|
+- |External Docking Station|
+- |Dual Boot fix|
 
 # Applicable system
 - MacOS Ventura13. x
