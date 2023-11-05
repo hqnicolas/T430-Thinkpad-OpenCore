@@ -1,6 +1,6 @@
 # Overview
-- The purpose of this project is to enable the LENOVO ThinkPad T430 series notebook to use MacOS.
-Note: This series of laptops has a WiFi whitelist and cannot be replaced with any network card,
+ The purpose of this project is to enable the LENOVO ThinkPad T430 series notebook to use MacOS.
+- Note: This series of laptops has a WiFi whitelist and cannot be replaced with any network card,
 # This Commit
 What I add to the original Release:
 - |Network card | Bcm94360HMB/Bcm943224HMP|
