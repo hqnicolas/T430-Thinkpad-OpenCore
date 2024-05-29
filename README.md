@@ -20,7 +20,7 @@ What I add to the original Release:
 # Applicable models
 - T430/T430s
 # What is needed
-- Downloaded MacOS image (supports image installation for macOS High Sierra (10.13.6) - macOS MacOS Ventura)
+- Downloaded MacOS image (supports image installation for macOS Ventura)
 - 16GB USB drive
 # BIOS Ensure Settings
 - ACHI mode
